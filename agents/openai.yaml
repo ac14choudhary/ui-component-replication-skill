@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Component Replication"
+  short_description: "Recreate and verify a UI component from a website"
+  default_prompt: "Use $ui-component to recreate the component in this reference and verify its appearance and interactions."
